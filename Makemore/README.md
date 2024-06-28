@@ -12,3 +12,7 @@ MLX: Not yet tried. I do not know how to do this.
 
 I went ahead with Jax-metal and finished the task.
 Have yet to do with MLX
+
+But Pytorch is faster at calculating Negative Log Likelihood
+16+ minutes JAX vs 40 seconds PyTorch
+But 7.3 seconds with Numpy.Log

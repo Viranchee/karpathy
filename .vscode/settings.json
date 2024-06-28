@@ -1,0 +1,4 @@
+{
+    "python.analysis.typeCheckingMode": "standard",
+    "python.defaultInterpreterPath": "/Volumes/code/envs/pymetal/bin/python",
+}
